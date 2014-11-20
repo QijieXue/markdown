@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="Markdown.css"></link>
+<link rel="stylesheet" href="https://github.com/7788wangzi/markdown/blob/master/Markdown.css"></link>
 
 ###Introduction to Markdown
 **John Gruber**
